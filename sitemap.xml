@@ -57,6 +57,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/pizza-night-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/home-movie-night-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/diy-face-mask-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
