@@ -27,6 +27,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/busy-week/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/reset-the-family-mood-with-a-simple-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
