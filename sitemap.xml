@@ -1,0 +1,38 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/hello-world/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/how-diy-kits-bring-families-closer-and-reduce-stress/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/why-kits-are-the-new-self-care/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/screen-free-moments-replacing-devices-with-discovery-kits/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/krisbx/
+        </loc>
+    </url>
+</urlset>
