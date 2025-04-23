@@ -7,21 +7,23 @@ Template:       twentytwentyfive
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=MedievalSharp&family=Playwrite+AU+SA:wght@100..400&family=Skranji:wght@400;700&display=swap');
+
 .grid-container {
     margin: 0 auto;
 }
 
 a {
-    color: #0d0c4d !important;
+    color: #4d0c0c !important;
     font-weight: bold !important;
 }
 
 header {
-    background-color: #d5e4f7;
+    background-color: #f7d5d5;
 }
 
 main {
-    background-color: rgb(180, 198, 223) !important;
+    background-color: rgb(223, 180, 180) !important;
     margin-top: 0 !important;
 }
 
@@ -30,7 +32,7 @@ main {
 }
 
 body {
-    background: #f9fcff;
+    background: #fff9f9;
     text-align: center;
 }
 
@@ -39,19 +41,39 @@ body {
 }
 
 .wp-block-heading {
-    text-align: center;
-    font-size: 50px;
-    letter-spacing: 50px;
-    color: rgba(78, 96, 153, 0.6);
-    text-transform: uppercase;
-    padding: 30px 0;
+    color: transparent;
 }
 
 h1 {
-    font-family: Verdana, sans-serif;
-    color: #0f0a4d;
+    font-family: "Caveat";
+    color: #4d0a0a;
 }
 
 h2 {
     padding: 16px  !important;
 }
+
+p {
+    font-size: 1.2rem;
+    color: #5e0f0f;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    max-width: 600px;
+    margin: 1em auto;
+    line-height: 1.6;
+  }
+
+  #product_filters_bar {
+    background: rgb(174, 70, 70);
+  }
+
+  .green-box.button {
+    background: rgb(78, 9, 9);
+  }
+
+  .product-search-submit {
+    background: red;
+  }
+
+  .product-name {
+    background: rgb(83, 9, 9) !important;
+  }
